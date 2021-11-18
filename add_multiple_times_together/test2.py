@@ -11,3 +11,5 @@ c = 998 % 3
 print(c)
 
 print('2'.zfill(2))
+formatted_num = format(2, '.1f')
+print(formatted_num, type(formatted_num))

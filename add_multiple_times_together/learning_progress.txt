@@ -1,0 +1,4 @@
+2021-11-09 23:34:09 history:
+up_to_yesterday:    23:22:40, 49.3%
+today_learned:      01:22:15, 1.4%
+up_to_today:

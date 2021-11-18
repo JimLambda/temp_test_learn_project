@@ -5,10 +5,10 @@ import time
 current_progress_time = '00:00:00'
 
 # How long you have learned today.
-times_needed_to_be_added = ['01:22:15', '00:10:55']
+times_needed_to_be_added = ['00:102:16', '02:50:28', '00:151:13', '2:52:22', '3:09:48', '3:46:33', '5:38:10', '3:04:42', '00:86:14', '00:52:00']
 
 # Total length of your learning videos or learning materials.
-total_time_length_of_your_learning_videos_or_materials = '00:00:00'
+total_time_length_of_your_learning_videos_or_materials = '00:00:01'
 
 
 def convert_time_into_seconds(time_str: str):
@@ -90,6 +90,7 @@ if __name__ == '__main__':
 
     with open('learning_progress.txt', mode='a') as file:
         file.write(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime()) + ' history:\n')
+        file.write('Today added:\t{}\n'.format(times_needed_to_be_added))
         file.write('Today learned:\t{}\t{}%\tTotal length:{}\n'.format(total_time_today_learned, percentage_today,
                                                                        total_time_length_of_your_learning_videos_or_materials))
         file.write('Up to today:\t{}\t{}%\n\n'.format(total_time_up_to_now, percentage_up_to_now))

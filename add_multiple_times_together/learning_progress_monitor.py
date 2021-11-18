@@ -5,10 +5,10 @@ import time
 current_progress_time = '00:00:00'
 
 # How long you have learned today.
-times_needed_to_be_added = ['31:13:34']
+times_needed_to_be_added = ['00:00:01']
 
 # Total length of your learning videos or learning materials.
-total_time_length_of_your_learning_videos_or_materials = '00:00:01'
+total_time_length_of_your_learning_videos_or_materials = '27:54:16'
 
 
 def convert_time_into_seconds(time_str: str):

@@ -2,13 +2,13 @@ import time
 
 # How long you have learned up to yesterday. (Include yesterday. But today's progress is not
 # included, today's learning progress should be in times_needed_to_be_added.)
-current_progress_time = '00:00:00'
+current_progress_time = '01:50:44'
 
 # How long you have learned today.
-times_needed_to_be_added = ['00:00:01']
+times_needed_to_be_added = ['00:23:52', '00:17:52']
 
 # Total length of your learning videos or learning materials.
-total_time_length_of_your_learning_videos_or_materials = '27:54:16'
+total_time_length_of_your_learning_videos_or_materials = '3:25:35'
 
 
 def convert_time_into_seconds(time_str: str):
@@ -88,9 +88,14 @@ if __name__ == '__main__':
     total_time_up_to_now = convert_seconds_into_time(total_seconds_up_to_now)
     percentage_up_to_now = calculate_percentage(total_seconds_up_to_now, total_length_seconds)
 
+    total_seconds_up_to_yesterday = convert_time_into_seconds(current_progress_time)
+    percentage_up_to_yesterday = calculate_percentage(total_seconds_up_to_yesterday, total_length_seconds)
+
     with open('learning_progress.txt', mode='a') as file:
         file.write(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime()) + ' history:\n')
+        file.write(
+            'Up to yesterday:\t{}\t{}%\n'.format(current_progress_time, percentage_up_to_yesterday))
         file.write('Today added:\t{}\n'.format(times_needed_to_be_added))
-        file.write('Today learned:\t{}\t{}%\tTotal length:{}\n'.format(total_time_today_learned, percentage_today,
+        file.write('Today learned:\t{}\t{}%\n'.format(total_time_today_learned, percentage_today))
+        file.write('Up to today:\t{}\t{}%\tTotal length:{}\n\n'.format(total_time_up_to_now, percentage_up_to_now,
                                                                        total_time_length_of_your_learning_videos_or_materials))
-        file.write('Up to today:\t{}\t{}%\n\n'.format(total_time_up_to_now, percentage_up_to_now))

@@ -74,3 +74,9 @@ Today added:	['00:23:52', '00:17:52']
 Today learned:	00:41:44	20.3%
 Up to today:	02:32:28	74.2%	Total length:3:25:35
 
+2021-11-20 02:50:35 history:
+Up to yesterday:	02:32:28	74.2%
+Today added:	['00:12:26', '00:00:00', '00:00:00', '00:00:00', '00:00:00', '00:00:00']
+Today learned:	00:12:26	6.0%
+Up to today:	02:44:54	80.2%	Total length:3:25:35
+

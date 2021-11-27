@@ -5,7 +5,13 @@ import time
 current_progress_time = '01:50:44'
 
 # How long you have learned today.
-times_needed_to_be_added = ['00:23:52', '00:17:52']
+times_needed_to_be_added = [
+    '00:23:52',
+    '00:17:52',
+    '00:00:00',
+    '00:00:00',
+    '00:00:00',
+]
 
 # Total length of your learning videos or learning materials.
 total_time_length_of_your_learning_videos_or_materials = '3:25:35'

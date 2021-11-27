@@ -80,3 +80,99 @@ Today added:	['00:12:26', '00:00:00', '00:00:00', '00:00:00', '00:00:00', '00:00
 Today learned:	00:12:26	6.0%
 Up to today:	02:44:54	80.2%	Total length:3:25:35
 
+2021-11-21 09:00:03 history:
+Up to yesterday:	02:32:28	74.2%
+Today added:	['00:12:26', '00:00:00', '00:00:00', '00:00:00', '00:00:00', '00:00:00']
+Today learned:	00:12:26	6.0%
+Up to today:	02:44:54	80.2%	Total length:3:25:35
+
+2021-11-21 09:03:18 history:
+Up to yesterday:	02:44:54	80.2%
+Today added:	['00:40:36', '00:00:00', '00:00:00', '00:00:00', '00:00:00', '00:00:00']
+Today learned:	00:40:36	19.7%
+Up to today:	03:25:30	100.0%	Total length:3:25:35
+
+2021-11-21 09:04:11 history:
+Up to yesterday:	00:00:00	0.0%
+Today added:	['00:00:00', '00:00:00', '00:00:00', '00:00:00', '00:00:00', '00:00:00']
+Today learned:	00:00:00	0.0%
+Up to today:	00:00:00	0.0%	Total length:27:54:16
+
+2021-11-21 11:36:14 history:
+Up to yesterday:	00:00:00	0.0%
+Today added:	['00:33:54', '00:00:00', '00:00:00', '00:00:00', '00:00:00', '00:00:00']
+Today learned:	00:33:54	2.0%
+Up to today:	00:33:54	2.0%	Total length:27:54:16
+
+2021-11-21 16:56:41 history:
+Up to yesterday:	00:00:00	0.0%
+Today added:	['00:53:16', '00:00:00', '00:00:00', '00:00:00', '00:00:00', '00:00:00']
+Today learned:	00:53:16	3.2%
+Up to today:	00:53:16	3.2%	Total length:27:54:16
+
+2021-11-21 18:56:17 history:
+Up to yesterday:	00:00:00	0.0%
+Today added:	['00:102:16', '00:00:00', '00:00:00', '00:00:00', '00:00:00', '00:00:00']
+Today learned:	01:42:16	6.1%
+Up to today:	01:42:16	6.1%	Total length:27:54:16
+
+2021-11-21 19:41:36 history:
+Up to yesterday:	00:00:00	0.0%
+Today added:	['00:102:16', '00:14:21', '00:00:00', '00:00:00', '00:00:00', '00:00:00']
+Today learned:	01:56:37	7.0%
+Up to today:	01:56:37	7.0%	Total length:27:54:16
+
+2021-11-21 20:19:07 history:
+Up to yesterday:	00:00:00	0.0%
+Today added:	['00:102:16', '00:40:56', '00:00:00', '00:00:00', '00:00:00', '00:00:00']
+Today learned:	02:23:12	8.6%
+Up to today:	02:23:12	8.6%	Total length:27:54:16
+
+2021-11-22 16:10:23 history:
+Up to yesterday:	02:23:12	8.6%
+Today added:	['00:42:52', '00:00:00', '00:00:00', '00:00:00', '00:00:00', '00:00:00']
+Today learned:	00:42:52	2.6%
+Up to today:	03:06:04	11.1%	Total length:27:54:16
+
+2021-11-23 14:08:49 history:
+Up to yesterday:	03:06:04	11.1%
+Today added:	['00:05:39', '00:00:00', '00:00:00', '00:00:00', '00:00:00', '00:00:00']
+Today learned:	00:05:39	0.3%
+Up to today:	03:11:43	11.5%	Total length:27:54:16
+
+2021-11-24 16:24:25 history:
+Up to yesterday:	03:06:04	11.1%
+Today added:	['00:54:23', '00:00:00', '00:00:00', '00:00:00', '00:00:00', '00:00:00']
+Today learned:	00:54:23	3.2%
+Up to today:	04:00:27	14.4%	Total length:27:54:16
+
+2021-11-24 16:30:58 history:
+Up to yesterday:	04:00:27	14.4%
+Today added:	['00:03:24', '00:00:00', '00:00:00', '00:00:00', '00:00:00', '00:00:00']
+Today learned:	00:03:24	0.2%
+Up to today:	04:03:51	14.6%	Total length:27:54:16
+
+2021-11-24 21:49:43 history:
+Up to yesterday:	04:00:27	14.4%
+Today added:	['00:32:17', '00:00:00', '00:00:00', '00:00:00', '00:00:00', '00:00:00']
+Today learned:	00:32:17	1.9%
+Up to today:	04:32:44	16.3%	Total length:27:54:16
+
+2021-11-27 15:07:35 history:
+Up to yesterday:	04:32:44	16.3%
+Today added:	['00:15:17', '00:00:00', '00:00:00', '00:00:00', '00:00:00', '00:00:00']
+Today learned:	00:15:17	0.9%
+Up to today:	04:48:01	17.2%	Total length:27:54:16
+
+2021-11-27 15:08:14 history:
+Up to yesterday:	04:32:44	16.3%
+Today added:	['00:65:44', '00:00:00', '00:00:00', '00:00:00', '00:00:00', '00:00:00']
+Today learned:	01:05:44	3.9%
+Up to today:	05:38:28	20.2%	Total length:27:54:16
+
+2021-11-27 19:48:00 history:
+Up to yesterday:	04:32:44	16.3%
+Today added:	['00:65:44', '00:25:34', '00:00:00', '00:00:00', '00:00:00', '00:00:00']
+Today learned:	01:31:18	5.5%
+Up to today:	06:04:02	21.7%	Total length:27:54:16
+

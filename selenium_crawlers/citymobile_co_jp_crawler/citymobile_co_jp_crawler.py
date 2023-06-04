@@ -8,7 +8,7 @@ driver = webdriver.Chrome()
 
 
 def get_all_room_info():
-    with open(file="./result.csv", mode="w", encoding="shiftjis", newline="\n") as file:
+    with open(file="./result.csv", mode="w", encoding="utf-8", newline="\n") as file:
         file.write("物件名,賃料,管理費\n")
         for page_number in range(1, 99999):
             page_url = "https://www.citymobile.co.jp/recommend2/page/{}/?dsp%5Bexists%5D=1&dsp%5Blimit%5D=50".format(

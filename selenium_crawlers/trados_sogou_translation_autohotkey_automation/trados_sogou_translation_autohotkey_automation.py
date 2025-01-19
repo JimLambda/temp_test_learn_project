@@ -15,9 +15,16 @@ ahk = AHK()
 windows_list = list(ahk.windows())
 print(windows_list)
 trados_window = None
+codec_of_the_window = 'gbk'
 for window in windows_list:
-    print(str(window.get_title().decode('gbk')))
-    if str(window.get_title().decode('gbk')).startswith('SDL Trados Studio - '):
+    try:
+        print(str(window.get_title().decode('gbk')))
+        codec_of_the_window = 'gbk'
+    except UnicodeDecodeError as e:
+        print(e)
+        print(str(window.get_title().decode('utf-8')))
+        codec_of_the_window = 'utf-8'
+    if 'Trados Studio - ' in str(window.get_title().decode(codec_of_the_window)):
         trados_window = window
         break
 if trados_window is None:
